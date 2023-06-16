@@ -24,3 +24,4 @@ after_success:
   - docker push ivokaramfilov/multi-nginx
   - docker push ivokaramfilov/multi-server
   - docker push ivokaramfilov/multi-worker
+  
